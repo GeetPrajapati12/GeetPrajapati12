@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Geet Prajapati
 
-## 🚀 Cybersecurity Student | QA Tester | Web Developer
+## 🚀 Cybersecurity Student | QA Tester | Developer
 
-Passionate cybersecurity student with experience in ethical hacking, QA testing, web development, and game testing. Skilled in identifying vulnerabilities, improving software quality, and building secure, user-friendly applications.
+Passionate cybersecurity student with experience in ethical hacking, QA testing, web development, python development, and game testing. Skilled in identifying vulnerabilities, improving software quality, and building secure, user-friendly applications.
 
 ---
 
@@ -32,6 +32,7 @@ Passionate cybersecurity student with experience in ethical hacking, QA testing,
 - React.js
 - Node.js
 - MongoDB
+- Python
 
 ### 🧪 Testing
 - QA Testing
@@ -44,6 +45,7 @@ Passionate cybersecurity student with experience in ethical hacking, QA testing,
 ### ⚙ Programming
 - Python
 - JavaScript
+- HTML
 
 ---
 
@@ -92,10 +94,10 @@ Passionate cybersecurity student with experience in ethical hacking, QA testing,
 - Security & Testing Certifications
 - Credly Badges
 
-🔗 Certificates:
+🔗 All Certificates:
 https://drive.google.com/drive/folders/1JO63AnLyrIuzTVrwTjdNV_WxbFDBPqAY
 
-🔗 Credly:
+🔗 All Badges :
 https://www.credly.com/users/geet-prajapati
 
 ---
