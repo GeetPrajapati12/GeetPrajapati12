@@ -50,7 +50,7 @@ Passionate cybersecurity student with experience in ethical hacking, QA testing,
 ## 💼 Experience
 
 ### 🎮 RedPlum Games — Game Tester
-**2023 - Present**
+**2023 - 2025**
 
 - Tested games for bugs, glitches, and performance issues
 - Improved gameplay experience and UI/UX
@@ -64,7 +64,7 @@ Passionate cybersecurity student with experience in ethical hacking, QA testing,
 - Performed QA testing and bug reporting
 
 ### 🧪 Macrobian Games — Manual Tester
-**2025 - 2026**
+**2025 - Present**
 
 - Performed CRM machine testing
 - Conducted website and UI testing
