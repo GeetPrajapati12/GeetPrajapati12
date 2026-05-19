@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Geet Prajapati
 
-## 🚀 Cybersecurity Student | QA Tester | Developer
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-New%20York,%20USA-blue" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer%20%7C%20ML%20Systems-success" />
+  <img src="https://img.shields.io/badge/Graduation-May%202026-informational" />
+</p>
 
 Passionate cybersecurity student with experience in ethical hacking, QA testing, web development, python development, and game testing. Skilled in identifying vulnerabilities, improving software quality, and building secure, user-friendly applications.
 
