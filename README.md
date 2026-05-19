@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Geet Prajapati
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Location-New%20York,%20USA-blue" />
+  <img src="https://img.shields.io/badge/Location-Gujarat,%20India-blue" />
   <img src="https://img.shields.io/badge/Role-Software%20Engineer%20%7C%20ML%20Systems-success" />
   <img src="https://img.shields.io/badge/Graduation-May%202026-informational" />
 </p>
