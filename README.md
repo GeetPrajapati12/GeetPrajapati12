@@ -64,7 +64,7 @@ Passionate cybersecurity student with experience in ethical hacking, QA testing,
 - Performed QA testing and bug reporting
 
 ### 🧪 Macrobian Games — Manual Tester
-**2025 - Present**
+**2025 - 2026**
 
 - Performed CRM machine testing
 - Conducted website and UI testing
