@@ -2,8 +2,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Gujarat,%20India-blue" />
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer%20%7C%20ML%20Systems-success" />
-  <img src="https://img.shields.io/badge/Graduation-May%202026-informational" />
+  <img src="https://img.shields.io/badge/Role-Computer%20Engineer%20%7C%20Cyber%20Security-success" />
+  <img src="https://img.shields.io/badge/Graduation-May%202025-informational" />
 </p>
 
 Passionate cybersecurity student with experience in ethical hacking, QA testing, web development, python development, and game testing. Skilled in identifying vulnerabilities, improving software quality, and building secure, user-friendly applications.
